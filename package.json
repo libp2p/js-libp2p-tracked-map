@@ -142,7 +142,7 @@
     "@libp2p/interface-metrics": "^4.0.0"
   },
   "devDependencies": {
-    "aegir": "^37.0.7",
+    "aegir": "^38.1.6",
     "sinon": "^15.0.1",
     "sinon-ts": "^1.0.0"
   }
