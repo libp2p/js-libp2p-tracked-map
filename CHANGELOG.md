@@ -1,3 +1,15 @@
+## [3.0.4](https://github.com/libp2p/js-libp2p-tracked-map/compare/v3.0.3...v3.0.4) (2023-07-20)
+
+
+### Trivial Changes
+
+* Update .github/workflows/stale.yml [skip ci] ([54b32ce](https://github.com/libp2p/js-libp2p-tracked-map/commit/54b32cef8eec77c15d7dc2b7bb666f924edf57b1))
+
+
+### Dependencies
+
+* **dev:** bump aegir from 39.0.13 to 40.0.0 ([#33](https://github.com/libp2p/js-libp2p-tracked-map/issues/33)) ([ae7d17b](https://github.com/libp2p/js-libp2p-tracked-map/commit/ae7d17b1cfcb0c7d6ea69fae698dadefbf3ddd55))
+
 ## [3.0.3](https://github.com/libp2p/js-libp2p-tracked-map/compare/v3.0.2...v3.0.3) (2023-06-15)
 
 
